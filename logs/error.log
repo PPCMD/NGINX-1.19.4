@@ -1,0 +1,19 @@
+2020/11/22 10:50:23 [error] 17300#14572: *2 CreateFile() "D:\nginx-1.19.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/11/22 10:51:11 [notice] 4676#19316: signal process started
+2020/11/22 10:52:48 [notice] 17544#6300: signal process started
+2020/11/22 10:52:55 [error] 17300#14572: *5 CreateFile() "D:\nginx-1.19.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/11/22 10:53:36 [notice] 8144#16180: signal process started
+2020/11/22 11:01:07 [notice] 17264#16396: signal process started
+2020/11/22 11:01:07 [error] 17264#16396: CreateFile() "D:\nginx-1.19.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/11/22 11:02:38 [notice] 11860#4640: signal process started
+2020/11/22 11:02:38 [error] 11860#4640: CreateFile() "D:\nginx-1.19.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/11/22 11:04:49 [error] 17300#14572: *9 CreateFile() "D:\nginx-1.19.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/11/22 11:04:55 [notice] 9340#18672: signal process started
+2020/11/22 11:05:23 [error] 17300#14572: *9 CreateFile() "D:\nginx-1.19.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/11/22 11:05:30 [notice] 10332#8140: signal process started
+2020/11/22 11:07:44 [notice] 18008#19360: signal process started
+2020/11/22 11:07:44 [error] 18008#19360: CreateFile() "D:\nginx-1.19.4/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/11/22 11:08:01 [notice] 17368#17460: signal process started
+2020/11/22 11:08:38 [error] 19420#7500: *1 "D:/data/public_html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/11/22 11:09:27 [notice] 3920#10588: signal process started
+2020/11/22 11:12:00 [notice] 4656#3656: signal process started
